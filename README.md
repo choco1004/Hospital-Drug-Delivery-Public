@@ -1,6 +1,9 @@
 # Hospital-Drug-Delivery-Public
 Hospital Drug Delivery Mobile Robot Simulation  
 
+“This project demonstrates an integrated robotics–biomedical system for autonomous drug delivery simulation.”
+
+
 drug_delivery_robot/
 ├── worlds/
 │   └── hospital_delivery_world.sdf
